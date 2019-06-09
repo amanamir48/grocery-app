@@ -1,0 +1,10 @@
+.voting-button {
+    float: right;
+    margin-right: 4px;
+}
+.vote {
+    font-size: 12px;
+}
+.name {
+    font-size: 16px;
+}
